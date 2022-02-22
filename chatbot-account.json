@@ -1,13 +1,13 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
+  "type": "service_account",
+  "project_id": "chatbotnochesydomingo-tnnx",
+  "private_key_id": "9a3dc936c7c3c44e5fe082e0b1b0f7c54550096b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDV3Np7RjaAC3t1\nWdeUBiVfPndkkaTtBzQGxDiKBn/4CXhx6OV7Wh+8WO6Ij/diqIMYQ4RjGlMN6wR9\n5Pvc3P3Qa/KsRN/+5afRPYspvPeBtU9nHpxeVSxIeMOn2Wnc24Y05jsLsopSSclb\nahHvuR1B1UlzmI/knpjbgUxSZ0Ym2ulUcrFFihe8f3H4sDOYNtc/k4pLvPxEaUrC\n1Nk9RV3zAXl66kGPZBKgnqB5Xe180VRKZLoIZTDQdXZvnu3656UKQZJ54gBXTVV1\nyzIcXfG8j4kD6XyIjvGZyqV7FrdblLOMb2sYoHWmvaDhhFny+QctEk/mFL3qSMHV\nF+WWTtLPAgMBAAECggEADaIdHsOslhVlTZH9ygFpoNHjcY/5TWTqqPhu9EQ9edXn\nYuI/vXvSzxfKPlQTJ1ZqY6xrhEJ5g0cf9liXwmN8yKxrqsC0mNQSEnwpDW7u8PVa\ndk6UwEy6ByAFClkJRHDiyXzYdxfuym0gFB7waBxLDwHQ7g4OijqesEuPTnzSk4e+\nMHqPeSc4XhtXebK9U7fVbseKLk+YPZesF8oEj1qt9dGL6E2+YrogbcHCHqOkTNym\nOw5k01ZZsVKyoImyVK/LioHopMmEXFN1OPWe8187Gy4lBOxAEhJnOTECo3z0LSw6\nqNp7dEdHYqiZIxBFeF4Bt++x7hHV/COKMz+4FHPaiQKBgQDvrV59J2UEGa0PEt2z\nZ7+2ZcB8iadihS3odISlS8N/GpA4JCUFIfI++CNpAbgxVEYs9YVMFAsxLEZGcH21\naFEY69WbH3vzuMCHcQv4HdDUmMvHmMfKFxppPfn5QUO1mt6BZSlXsKlZA86wldRG\nw41SP7GdO1PuPkBGXvxhlptFGQKBgQDkbWxsWHpMwXJnKgeLKQfp66BxP58e5eRh\np5h0z8fed70Uk3HT/rVVO5+nFmWdFMPJhrFLzKzHxIOWdKhFSMYQHnSYyua9Y5/B\npVmlosoyaGioKJRvtE8GJE4tDE+kVIEkMAxDgHi11wdrr1knNsPYwbQfdMX5uA1I\nJ+TWZN8sJwKBgCicxvMMFtjgBOwV9U0uGlUs3rX7mUpfaM0H2WYs9V53QNLShRde\nji7PWyiy6uQo9I8vtzuR9eeKKgpLi3GO0JcZdyOG7Tj6KF2K8U1EuBseHQGgSNJc\nodQNdWsf/Por2OIyIxRB0iBMPdy8NrEa97plIpKS+ADZuYhzFe7vVzYZAoGBAM9y\nyKrE15zpefpS4zLwem1oPfdbbijjYzuEtyIuqTdSyvbqyM9cXFYhpeZaosG7X+uf\nVVifcrKht1dmboMtiiKNZhp0+oQ4+5cjkXypkLOiupks8VFZEQNk6VJkAdgdnoK8\n2AZdoEKUG/sh7fd89vPdRrXimQEms3k6Mcq7JSq1AoGBALTSfEdxrgtuH1/Z6pJl\nobzyuE6obNbfJ2teHBsZ7q0smOq/LwnkYKRGuazZeP01aIBDKi7TqyysJo7gR0Kx\no4g7lntQIocUI1dUXI0FU3cxhqXjucMUbRphliSI53UPaYSWf7w/cP4Fue/dJCl7\nTwr2Kh+8b9GIBRFspmAxOF4v\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsappnode@chatbotnochesydomingo-tnnx.iam.gserviceaccount.com",
+  "client_id": "112321089642219002728",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsappnode%40chatbotnochesydomingo-tnnx.iam.gserviceaccount.com"
+}
   

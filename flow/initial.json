@@ -19,15 +19,14 @@
     },
     {
         "keywords":  [
-            "cursos",
             "info",
-            "curso"
+            "informacion"
         ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
+            "probar"
         ],
         "key": "STEP_2_1"
     },
